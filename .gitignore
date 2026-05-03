@@ -1,0 +1,10 @@
+backend/models/
+backend/hrtf/
+**/__pycache__/
+*.pyc
+*.gguf
+*.bin
+.env
+.env.local
+frontend/.next/
+frontend/node_modules/
